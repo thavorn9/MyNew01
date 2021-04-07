@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ex12_sqlite</string>
+    <string name="login">เข้าใช้งาน</string>
+    <string name="register">ลงทะเบียน</string>
+    <string name="name">กรุณาใส่ชื่อ นามสกุล</string>
+    <string name="email">กรุณาใส่ email</string>
+    <string name="email_register">กรุณาใส่ email</string>
+    <string name="username">กรุณาใส่ชื่อ user</string>
+    <string name="password">กรุณาใส่ password</string>
+    <string name="confirmpassword">กรุณายืนยัน</string>
+    <string name="welcome">ยินดีต้อนรับ</string>
+    <string name="exit">กดปุ่ม Back เพื่อออก</string>
+
+</resources>
+
